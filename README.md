@@ -25,7 +25,7 @@ $ whoami
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConstanzaGomez&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConstanzaGomez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConstanzaGomez&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎮 Proyectos & cursos completados
