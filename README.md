@@ -23,10 +23,10 @@ $ whoami
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConstanzaGomez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConstanzaGomez&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 En números
+![Repos](https://img.shields.io/badge/Repos_públicos-13-1D9E75?style=flat)
+![Último año](https://img.shields.io/badge/Último_año_de_carrera-🎓-534AB7?style=flat)
+![Cursos](https://img.shields.io/badge/Cursos_completados-2-BA7517?style=flat)
 
 ## 🎮 Proyectos & cursos completados
 - ✅ Curso de **Godot Engine 2D** — desarrollo de videojuegos
