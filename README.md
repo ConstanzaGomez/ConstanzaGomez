@@ -8,12 +8,15 @@ $ whoami
 
 ## 🔭 ¿En qué estoy trabajando?
 - 📚 Cursando certificación en **Hacking Ético**
-- 🛡️ Aprendiendo sobre **pentesting**, análisis de redes y CTFs
+- 🤖 Cursando segundo curso de **Robótica**
+
 
 ## 🛠️ Tecnologías y herramientas
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -25,17 +28,20 @@ $ whoami
 ## 📊 En números
 ![Repos](https://img.shields.io/badge/Repos_públicos-13-1D9E75?style=flat)
 ![Último año](https://img.shields.io/badge/Último_año_de_carrera-🎓-534AB7?style=flat)
-![Cursos](https://img.shields.io/badge/Cursos_completados-2-BA7517?style=flat)
+![Cursos](https://img.shields.io/badge/Cursos_completados-3-BA7517?style=flat)
 
 ## 🎮 Proyectos & cursos completados
 - ✅ Curso de **Godot Engine 2D** — desarrollo de videojuegos
+- ✅ Curso de **Robótica** — nivel 1
+- ✅ Desarrollo web con **HTML & CSS**
 - 🔄 Certificación en **Hacking Ético** — en curso
+- 🔄 Curso de **Robótica** — nivel 2, en curso
 
 ## 🌱 Aprendiendo actualmente
 - Análisis de vulnerabilidades y **OWASP Top 10**
 - Scripting en **Bash y Python** para automatización de seguridad
 - Fundamentos de **redes TCP/IP** y protocolos
-- Desarrollo de videojuegos 2D con **Godot Engine**
+- Robótica avanzada
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-gomez-teruel-551040349/)
