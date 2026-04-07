@@ -9,7 +9,6 @@ $ whoami
 ## 🔭 ¿En qué estoy trabajando?
 - 📚 Cursando certificación en **Hacking Ético**
 - 🛡️ Aprendiendo sobre **pentesting**, análisis de redes y CTFs
-- 🌐 Construyendo mi portafolio en [GitHub Pages](https://constanzagomez.github.io/PorfolioConstanzaGomez.github.io/)
 
 ## 🛠️ Tecnologías y herramientas
 
