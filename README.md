@@ -36,7 +36,7 @@ $ whoami
 - ✅ Curso de **Godot Engine 2D** — desarrollo de videojuegos
 - ✅ Curso de **Robótica** — nivel 1
 - ✅ Desarrollo web con **HTML & CSS**
-- 🔄 Certificación en **Hacking Ético** — en curso
+- ✅ Certificación en **Hacking Ético** — en curso
 - 🔄 Curso de **Robótica** — nivel 2, en curso
 
 ## 🌱 Aprendiendo actualmente
