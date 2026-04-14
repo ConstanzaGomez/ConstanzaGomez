@@ -30,7 +30,7 @@ $ whoami
 ## 📊 En números
 ![Repos](https://img.shields.io/badge/Repos_públicos-13-1D9E75?style=flat)
 ![Último año](https://img.shields.io/badge/Último_año_de_carrera-🎓-534AB7?style=flat)
-![Cursos](https://img.shields.io/badge/Cursos_completados-3-BA7517?style=flat)
+![Cursos](https://img.shields.io/badge/Cursos_completados-4-BA7517?style=flat)
 
 ## 🎮 Proyectos & cursos completados
 - ✅ Curso de **Godot Engine 2D** — desarrollo de videojuegos
