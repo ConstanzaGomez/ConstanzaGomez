@@ -45,8 +45,8 @@ $ whoami
 - Fundamentos de **redes TCP/IP** y protocolos
 - Robótica avanzada
 ## 📄 Documentos
-[![CV](https://drive.google.com/file/d/15GmYNm8w5eaey7WtztKaz59XetHYTjFD/view?usp=sharing)]
-[![Certificado Ciberseguridad](https://drive.google.com/file/d/1tg3Zl9Swm5UgTYlsI-5QlRFSZ7TcOLyy/view?usp=sharing)]
+[![CV]()]
+[![Certificado Ciberseguridad]()]
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-gomez-teruel-551040349/)
