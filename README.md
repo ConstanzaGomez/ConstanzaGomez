@@ -44,6 +44,9 @@ $ whoami
 - Scripting en **Bash y Python** para automatización de seguridad
 - Fundamentos de **redes TCP/IP** y protocolos
 - Robótica avanzada
+## 📄 Documentos
+[![CV](https://img.shields.io/badge/Ver_CV-ED8B00?style=flat&logo=googledrive&logoColor=white)]
+[![Certificado Ciberseguridad](https://img.shields.io/badge/Certificado_Ciberseguridad-557C94?style=flat&logo=googledrive&logoColor=white)]
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-gomez-teruel-551040349/)
