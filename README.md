@@ -46,7 +46,7 @@ $ whoami
 - Robótica avanzada
 ## 📄 Documentos
 [![CV](https://img.shields.io/badge/Ver_CV-ED8B00?style=flat&logo=googledrive&logoColor=white)(https://github.com/ConstanzaGomez/Certificados/blob/main/Curriculum%20Constanza%20G%C3%B3mez.pdf)]
-[![Certificado Ciberseguridad]()]
+[![Certificado Ciberseguridad](https://img.shields.io/badge/Certificado_Ciberseguridad-557C94?style=flat&logo=googledrive&logoColor=white)()]
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-gomez-teruel-551040349/)
