@@ -26,6 +26,7 @@ $ whoami
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![IA](https://img.shields.io/badge/Agentes_IA-FF6F00?style=flat&logo=googlegemini&logoColor=white)
 
 ## 📊 En números
 ![Repos](https://img.shields.io/badge/Repos_públicos-13-1D9E75?style=flat)
@@ -36,8 +37,9 @@ $ whoami
 - ✅ Curso de **Godot Engine 2D** — desarrollo de videojuegos
 - ✅ Curso de **Robótica** — nivel 1
 - ✅ Desarrollo web con **HTML & CSS**
-- ✅ Certificación en **Hacking Ético** — en curso
+- ✅ Certificación en **Hacking Ético**
 - 🔄 Curso de **Robótica** — nivel 2, en curso
+- ✅ Curso de **Desarrollo IA** — programación con agentes
 
 ## 🌱 Aprendiendo actualmente
 - Análisis de vulnerabilidades y **OWASP Top 10**
@@ -47,6 +49,7 @@ $ whoami
 ## 📄 Documentos
 [![CV](https://img.shields.io/badge/Ver_CV-ED8B00?style=flat&logo=googledrive&logoColor=white)(https://github.com/ConstanzaGomez/Certificados/blob/main/Curriculum%20Constanza%20G%C3%B3mez.pdf)]
 [![Certificado Ciberseguridad](https://img.shields.io/badge/Certificado_Ciberseguridad-557C94?style=flat&logo=googledrive&logoColor=white)(https://github.com/ConstanzaGomez/Certificados/blob/main/Certificado-Constanza-Gomez-Teruel-5njtz3ul.pdf)]
+[![Certificado IA](https://img.shields.io/badge/Certificado_IA-FF6F00?style=flat&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1F6fns6gNY2h8mpk9QunIct3T_RX7_Wd-/view?usp=drive_link)
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-gomez-teruel-551040349/)
