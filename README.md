@@ -49,7 +49,7 @@ $ whoami
 ## 📄 Documentos
 [![CV](https://img.shields.io/badge/Ver_CV-ED8B00?style=flat&logo=googledrive&logoColor=white)(https://github.com/ConstanzaGomez/Certificados/blob/main/Curriculum%20Constanza%20G%C3%B3mez.pdf)]
 [![Certificado Ciberseguridad](https://img.shields.io/badge/Certificado_Ciberseguridad-557C94?style=flat&logo=googledrive&logoColor=white)(https://github.com/ConstanzaGomez/Certificados/blob/main/Certificado-Constanza-Gomez-Teruel-5njtz3ul.pdf)]
-[![Certificado IA](https://img.shields.io/badge/Certificado_IA-FF6F00?style=flat&logo=adobeacrobatreader&logoColor=white)]()
+[![Certificado IA](https://img.shields.io/badge/Certificado_IA-FF6F00?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/ConstanzaGomez/Certificados/blob/main/Certificado-Constanza-Gomez-Teruel-dm4so6om.pdf)
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-gomez-teruel-551040349/)
